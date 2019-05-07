@@ -8,8 +8,7 @@
 
 希望只兼容https服务器的可以访问
 https://aria.sleele.top/
-
-目前更新AriaNG版本到---AriaNg 1.0.3     
+   
 
 地址：http://a.sleele.top/
 
