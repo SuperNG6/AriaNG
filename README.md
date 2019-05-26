@@ -1,6 +1,6 @@
 ## 2019.05.26更新到1.1.1
 # AriaNG
-本项目是基于 mayswind 的AriaNG构建的项目
+本项目是基于 mayswind 的AriaNG稳定版版构建的项目
 
 方便Aria2的管理与使用
 
